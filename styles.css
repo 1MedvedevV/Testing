@@ -53,8 +53,8 @@ body {
 
 .object {
     position: absolute;
-    width: 3500px;
-    height: 1000px;
+    width: 500px;
+    height: 500px;
     background-size: contain;
     z-index: 1;
     animation: moveObject linear infinite both;
@@ -63,14 +63,14 @@ body {
 .object1 {
     background: url('https://raw.githack.com/1MedvedevV/testing/main/object1.png') 0 100% no-repeat;
     bottom: 0px; 
-    left: -50%;
+    left: 0%;
     animation-duration: 5s;
 }
 
 .object2 {
     background: url('https://raw.githack.com/1MedvedevV/testing/main/object2.png') 0 100% no-repeat;
     bottom: 0px;
-    left: -90%;
+    left: 0%;
     animation-duration: 9s;
 }
 
