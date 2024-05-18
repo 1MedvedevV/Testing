@@ -75,8 +75,8 @@ body {
 }
 
 @keyframes moveLayer {
-    0% { background-position: 2765px 100%; }
-    100% { background-position: 9800px 100%; }
+    0% { background-position: 100px 100%; }
+    100% { background-position: 500px 100%; }
 }
 
 @keyframes moveObject {
