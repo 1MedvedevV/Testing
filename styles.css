@@ -8,7 +8,7 @@ body {
 
 .scene {
     position: relative;
-    width: 400px;
+    width: 800px;
     height: 400px;
     min-height: 400px;
     background-color: #ffffff;
